@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Mar 24 20:36:01 2021
+Invocation: foremost concat_v.png 
+Output directory: /mnt/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: concat_v.png
+Start: Wed Mar 24 20:36:01 2021
+Length: 17 MB (18095920 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Wed Mar 24 20:36:02 2021
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Wed Mar 24 20:36:02 2021

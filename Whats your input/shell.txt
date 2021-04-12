@@ -1,0 +1,9 @@
+What's your favorite number?
+Number? city
+You said: Asheville
+Okay...
+What's the best city to visit?
+City? "Asheville"
+You said: Asheville
+I agree!
+picoCTF{v4lua4bl3_1npu7_8440832}

